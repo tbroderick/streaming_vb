@@ -13,7 +13,10 @@ Contents
 
 This code is largely the same as, and adapted from, the online VB (aka stochastic variational Bayes) code of
 Matthew D. Hoffman, Copyright (C) 2010
-found here: http://www.cs.princeton.edu/~blei/topicmodeling.html
+found here: http://www.cs.princeton.edu/~blei/downloads/onlineldavb.tar
+and also of 
+Chong Wang, Copyright (C) 2011
+found here: http://www.cs.cmu.edu/~chongw/software/onlinehdp.tar.gz
 The GPL license is inherited from that code.
 
 Adapted by: Nick Boyd, Tamara Broderick, Andre Wibisono, Ashia C. Wilson
